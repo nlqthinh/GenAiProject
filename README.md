@@ -8,9 +8,8 @@ Most of these project are designed to be run on Google Colab. Follow the instruc
    - Open any file you want in this repository, there will be a link I have shared and you just click on it.
 
 2. **Run All Cells**
-
-   - Click on `Runtime` in the top menu.
-   - Select `Run all` or press `Ctrl+F9` to execute all the cells in the notebook sequentially.
+   - Some project require openai key (or you can change it into another model), you just need register and get api_key from 'https://platform.openai.com/api-keys' then paste it
+   - Select `Run all` or manual run one by one
 
 3. **Access the Application**
 
