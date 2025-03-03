@@ -5,7 +5,7 @@ Most of these project are designed to be run on Google Colab. Follow the instruc
 ## Getting Started
 
 1. **Open the Notebook in Google Colab**
-   - Open any file you want in this repository, there will be a link I have shared and you just click on it.
+   - Open any file you want in this repository, there will be a link I have shared and you just need click on it.
 
 2. **Run All Cells**
    - Some project require openai key (or you can change it into another model), you just need register and get api_key from 'https://platform.openai.com/api-keys' then paste it
